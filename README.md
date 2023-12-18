@@ -2,18 +2,18 @@
 
 ## Description
 
-Code modified to make more accessible and optimized for search engines.
+update html and CSS to make more accessible and optimized for search engines.
 
 ## Installation
+
 
 
 ## Usage
 
 
-
 ## Credits
 
-Code provided by 
+original code provided by as part of starter code
 
 ## License
 
