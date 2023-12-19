@@ -2,18 +2,23 @@
 
 ## Description
 
-update html and CSS to make more accessible and optimized for search engines.
+Reviewed and updated html and CSS to make more accessible and optimized for SEO.
+
 
 ## Installation
 
+to deploy repo as website on github (step-by-step) https://everhour.com/blog/how-to-host-website-on-github/ (credit to: Maria Kharlantseva)
 
 
 ## Usage
 
+main page for marketing firm and how it can assist with providing social media marketing and SEO insight
+
 
 ## Credits
 
-original code provided by as part of starter code
+original html, css provided by as part of starter code assignment.
+
 
 ## License
 
@@ -26,15 +31,3 @@ refer to LICENSE in repo.
 ## How to Contribute
 
 ## Tests
-
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
